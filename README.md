@@ -1,16 +1,7 @@
-# 🎮 Video Games
-## Objective
-This project creates and builds data models and deploy database for the video games data.
+# Data Engineering
 
-## Technologies
-- Database: PostgreSQL
-- Language: Python
-  
-## Data Architecture
+This repo contains the projects related to data engineering.
 
-<img width="591" alt="image" src="https://user-images.githubusercontent.com/81607668/237030996-a92947af-5e9b-42be-8a34-9b4073f6e7ef.png">
+## Projects
 
-1. Data is extracted from [Kaggle](http://kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings/versions/2?resource=download) and saved locally.
-2. The [videogames.ipynb script] initiates a connection to PostgreSQL and creates the database with auto-commit being run. 
-3. Tables are created with the appropriate columns and data types. 
-4. Data is fed into the newly created tables.
+- 🎮 [Video Games]: Create and build data model and deploy into database with Python and PostgreSQL.
