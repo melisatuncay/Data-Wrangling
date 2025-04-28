@@ -1,4 +1,4 @@
-# 🎮 Data Engineering
+# 🎮 Video Games
 ## Objective
 This project creates and builds data models and deploy database for the video games data.
 
