@@ -1,4 +1,4 @@
-# Data Engineering
+# Data Wrangling
 
 This repo contains the projects related to data engineering.
 
